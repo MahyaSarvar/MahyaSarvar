@@ -7,4 +7,3 @@
 MahyaSarvar/MahyaSarvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![envio-01f](https://user-images.githubusercontent.com/106925935/182647795-470292e7-e2cd-454f-9444-262a544b1dc8.jpg)
